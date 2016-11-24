@@ -10,3 +10,7 @@ Material UI is a fully responsive, cross-platform, front-end interface based on 
 
 
 > http://dev62.com
+
+Donation (WebMoney transfer):
+
+> Wallets: Z762602395329 , X921132827476
