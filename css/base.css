@@ -6367,4 +6367,15 @@ html.no-touchevents .tile-action-show {
             transform: none;
     width: 240px;
   }
+.back-button {
+	cursor: pointer;
+        float: left;
+    	}
+    .back-button p {
+        font-size: auto;
+    }
+    .back-button img {
+        height: 50%;
+    }
+}
 }
